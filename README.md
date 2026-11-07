@@ -16,15 +16,13 @@ The dashboard provides visual insights into customer demographics, service usage
 - Data Visualization
 - Data Analysis
 
-## 📈 Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Page 1 – Customer Churn Overview
-
-https://github.com/ayaansidd16/Customer-Churn-Analysis-PowerBI/blob/main/page1.png.
+![Page 1 Dashboard](page1.png)
 
 ### Page 2 – Customer Behaviour Analysis
-
-https://github.com/ayaansidd16/Customer-Churn-Analysis-PowerBI/blob/main/page2.png
+![Page 2 Dashboard](page2.png)
 
 ## 🔍 Key Insights
 
