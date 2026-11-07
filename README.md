@@ -20,7 +20,7 @@ The dashboard provides visual insights into customer demographics, service usage
 
 ### Page 1 – Customer Churn Overview
 
-![Customer Churn Dashboard - Page 1](Screenshots/page1.png)
+https://github.com/ayaansidd16/Customer-Churn-Analysis-PowerBI/blob/main/page1.png.
 
 ### Page 2 – Customer Behaviour Analysis
 
