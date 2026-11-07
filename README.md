@@ -24,7 +24,7 @@ https://github.com/ayaansidd16/Customer-Churn-Analysis-PowerBI/blob/main/page1.p
 
 ### Page 2 – Customer Behaviour Analysis
 
-![Customer Behaviour Dashboard - Page 2](Screenshots/page2.png)
+https://github.com/ayaansidd16/Customer-Churn-Analysis-PowerBI/blob/main/page2.png
 
 ## 🔍 Key Insights
 
